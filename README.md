@@ -35,3 +35,7 @@ Run the App:
 
 Choose a simulator or a physical device and run the app.
 ```
+## Sample
+<img width="220" alt="iOS" src= "https://github.com/malisanjay5433/PartyExplorerApp/assets/8912602/abb81e5d-6b2e-4045-a28b-4c10a5242cda">
+<img width="220" alt="iOS" src= "https://github.com/malisanjay5433/PartyExplorerApp/assets/8912602/63a2ba81-f220-4b9f-8685-1aa3cfc3f85c">
+<img width="220" alt="iOS" src= "https://github.com/malisanjay5433/PartyExplorerApp/assets/8912602/13db9d5f-4635-4744-9791-83ab13a83e81">
