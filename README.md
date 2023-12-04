@@ -13,7 +13,7 @@ To contribute or run this project, make sure you have the following installed:
 Scroll through a list of party cards displaying names, images, prices, attendees' count, and dates.
 ### Party Filtering
 Filter the party card list by searching for a party name using a search algorithm.
-### Random Party Generation
+### TODO: Random Party Generation
 Generate new parties randomly with a name, banner image, price, and start/end date.
 Only the party name and image URL are randomly chosen from an existing array of values.
 Not every randomly-generated party contains an end date.
