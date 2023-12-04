@@ -1,0 +1,17 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+*.xcworkspace/xcuserdata/
+
+
+# Ignore Finder spam
+\.DS_store
+
+# Ignore cruft in the project bundle
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+# Ignore build products folder
+build/
