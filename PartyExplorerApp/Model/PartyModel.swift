@@ -7,7 +7,7 @@
 
 import Foundation
 struct PartyModel: Codable,Identifiable {
-    var id = UUID()
+    var id:Int
     let name: String
     let bannerImageURL: URL
     let price: Double
