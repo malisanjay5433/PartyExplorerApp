@@ -6,7 +6,13 @@
 //
 
 import Foundation
+
+/// `MockData` class provides mock data for testing and development purposes.
 class MockData{
+    
+    /// - Returns: An array of `PartyModel` objects representing mock party data.
+    /// - Throws: An error if there is an issue generating the mock data.
+    
     func getAllParties() async throws -> [PartyModel]{
         [
             PartyModel(id: 1112, name: "Berlin Concert", bannerImageURL: URL(string: "https://via.placeholder.com/600/f9cee5")!, price: 62.8, startDate: Date(), endDate: nil),

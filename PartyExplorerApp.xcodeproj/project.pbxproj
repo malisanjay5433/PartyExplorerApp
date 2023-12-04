@@ -16,6 +16,7 @@
 		9BBDA6612B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA6602B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift */; };
 		9BBDA66E2B1E06EF004D33CD /* PartyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA66D2B1E06EF004D33CD /* PartyModel.swift */; };
 		9BBDA6732B1E0AB6004D33CD /* MockData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA6722B1E0AB6004D33CD /* MockData.swift */; };
+		9BBDA6752B1E0CEA004D33CD /* PartyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA6742B1E0CEA004D33CD /* PartyViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		9BBDA6602B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyExplorerAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9BBDA66D2B1E06EF004D33CD /* PartyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyModel.swift; sourceTree = "<group>"; };
 		9BBDA6722B1E0AB6004D33CD /* MockData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockData.swift; sourceTree = "<group>"; };
+		9BBDA6742B1E0CEA004D33CD /* PartyViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 		9BBDA6702B1E0A90004D33CD /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				9BBDA6742B1E0CEA004D33CD /* PartyViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BBDA6462B1E05C8004D33CD /* ContentView.swift in Sources */,
+				9BBDA6752B1E0CEA004D33CD /* PartyViewModel.swift in Sources */,
 				9BBDA6732B1E0AB6004D33CD /* MockData.swift in Sources */,
 				9BBDA6442B1E05C8004D33CD /* PartyExplorerAppApp.swift in Sources */,
 				9BBDA66E2B1E06EF004D33CD /* PartyModel.swift in Sources */,
