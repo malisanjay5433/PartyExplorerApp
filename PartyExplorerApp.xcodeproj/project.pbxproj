@@ -14,6 +14,7 @@
 		9BBDA6552B1E05CA004D33CD /* PartyExplorerAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA6542B1E05CA004D33CD /* PartyExplorerAppTests.swift */; };
 		9BBDA65F2B1E05CA004D33CD /* PartyExplorerAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA65E2B1E05CA004D33CD /* PartyExplorerAppUITests.swift */; };
 		9BBDA6612B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA6602B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift */; };
+		9BBDA66E2B1E06EF004D33CD /* PartyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBDA66D2B1E06EF004D33CD /* PartyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9BBDA65A2B1E05CA004D33CD /* PartyExplorerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PartyExplorerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BBDA65E2B1E05CA004D33CD /* PartyExplorerAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyExplorerAppUITests.swift; sourceTree = "<group>"; };
 		9BBDA6602B1E05CA004D33CD /* PartyExplorerAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyExplorerAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9BBDA66D2B1E06EF004D33CD /* PartyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9BBDA6432B1E05C8004D33CD /* PartyExplorerAppApp.swift */,
 				9BBDA6452B1E05C8004D33CD /* ContentView.swift */,
+				9BBDA66D2B1E06EF004D33CD /* PartyModel.swift */,
 				9BBDA6472B1E05CA004D33CD /* Assets.xcassets */,
 				9BBDA6492B1E05CA004D33CD /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				9BBDA6462B1E05C8004D33CD /* ContentView.swift in Sources */,
 				9BBDA6442B1E05C8004D33CD /* PartyExplorerAppApp.swift in Sources */,
+				9BBDA66E2B1E06EF004D33CD /* PartyModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
